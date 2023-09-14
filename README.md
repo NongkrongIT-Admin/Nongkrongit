@@ -1,6 +1,6 @@
 # Nongkrong IT Community
 
-![Nongkrong IT Logo](./nongkrong-it-logo.png)
+<img src="./nongkrong-it-logo.png" alt="Nongkrong IT Logo">
 
 Welcome to the Nongkrong IT Community, a vibrant community operating within the campus of STMIK AMIK RIAU. While we are located within the campus, please note that Nongkrong IT is an independent community and is not officially affiliated with the university.
 
